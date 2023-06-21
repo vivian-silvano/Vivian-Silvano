@@ -1,8 +1,9 @@
 ### Olá! Sou Vivian Silvano
 Bem-Vindo ao meu perfil GitHub👋
 
-- 🔭 I’m currently working on Analista de Testes/QA
-- 🌱 I’m currently learning Engenharia de Software
-- 📫 How to reach me: 85 9 886157716
-- 😄 E-mail: viviansilvano@gmail.com
+- 🔭 Trabalho como Analista de Testes/QA
+- 🌱 Estudo Engenharia de Software
+- 📌 Tecnologias e Ferramentas: Cypress,javaScript,HTML,mySQL,API,Postman,Scrum
+- 📱  55 85 9886157716
+- 📫 E-mail: viviansilvano@gmail.com
 
